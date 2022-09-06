@@ -1,4 +1,4 @@
-# find-local-by-CEP
+# find-local - feito por: @meloteux
 Script simples para achar o estado e a cidade pelo CEP feito em Python para uso livre.
 
 # Tutorial em Português:
@@ -11,12 +11,12 @@ pip install requests
 ```
 ### Execute o seguinte comando no terminal:
 ```bash
-python3 find-local-by-CEP
+python3 find-local
 ```
 - Insira o CEP
 - Pronto!
 
-# find-local-by-CEP
+# find-local - made by: @meloteux
 Simple script to find state and city by zip code made in Python for free use.
 
 # Tutorial in English: 
@@ -29,7 +29,7 @@ pip install requests
 ```
 ### Run the following command in the terminal:
 ```bash
-python3 find-local-by-CEP
+python3 find-local
 ``` 
 - Enter the zip code.
 - Done!
