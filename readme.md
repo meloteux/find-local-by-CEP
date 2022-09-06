@@ -3,13 +3,18 @@ Script simples para achar o estado e a cidade através do CEP feito em Python pa
 - feito por github.com/meloteux
 # Tutorial em Português:
 
-### Como usar:
-- Clone o repositório.
-- Instale a bibliotéca 'requests' versão 2.28.1.
-Execute o seguinte comando no terminal para instalar a bibliotéca:
+
+## COMO USAR:
+- Instale a bibliotéca 'requests'.<br>
+- Execute o seguinte comando no terminal para instalar a bibliotéca:
 ```bash
 pip install requests
 ```
+- Clone o repositório com o comando:
+```bash
+git clone https://github.com/meloteux/find-local-by-CEP.git
+```
+
 
 ### Entre na pasta do repositório:
 ```bash
