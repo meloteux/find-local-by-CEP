@@ -16,11 +16,11 @@ git clone https://github.com/meloteux/find-local-by-CEP.git
 ```
 
 
-### Entre na pasta do repositório:
+- Entre na pasta do repositório:
 ```bash
 cd find-local-by-CEP
 ```
-### Execute o comando:
+- Execute o comando:
 ```bash
 python3 find-local-by-CEP
 ```
